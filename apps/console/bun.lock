@@ -60,7 +60,7 @@
         "@xterm/addon-search": "^0.15.0",
         "@xterm/xterm": "^5.5.0",
         "animejs": "^4.4.1",
-        "appwrite-cli-wasm": "27.2.1",
+        "appwrite-cli-wasm": "28.8.0",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "cmdk": "^1.1.1",
@@ -813,7 +813,7 @@
 
     "ansis": ["ansis@4.4.0", "", {}, "sha512-9k3v7xcHwgdO/DruxGIg4HtjvlAZlcnsX/mzqUb1t3NkYnl9kK2UJ+Gq0io+vQf7iT//BD/HB/NBkUR1LWxoeA=="],
 
-    "appwrite-cli-wasm": ["appwrite-cli-wasm@27.2.1", "", {}, "sha512-wkVM2x0JEqWoodKGh76NQlkOmyccWHZqxy0kL7dUCyAaXEuR/y7l27wjEtFbhlontDqV2wmztPS+JkACNe2W3g=="],
+    "appwrite-cli-wasm": ["appwrite-cli-wasm@28.8.0", "", {}, "sha512-2W4yL3Hw049LGmpvDOmwJjNfNPTM+7vazgHCMxuS3rdmWod+2wc4EfvvhJdZEV2yMkJohAg/TXbTJV/P31/eKA=="],
 
     "argparse": ["argparse@2.0.1", "", {}, "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="],
 
